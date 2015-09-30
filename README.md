@@ -7,7 +7,7 @@ Setup
 ----------
 * Clone repository:
 ```console
-$ git clone
+$ git clone https://github.com/fsilvestre90/SettlersOfPortland.git
 ```
 OSX: In your project folder in the terminal, enter
 ```
